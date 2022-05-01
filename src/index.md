@@ -1,6 +1,7 @@
 ---
 # set the page title
-title: PlayStation
+title: PlayStation vs Xbox
+subtitle: 
 
 # set the layout to use, in this case, the homepage one
 layout: layouts/homepage
@@ -8,7 +9,7 @@ layout: layouts/homepage
 
 # We can set extra info here to use in our templates
 hero:
-    title: "I am the hero title!"
+    title: "Which one is Best"
 ---
 
 

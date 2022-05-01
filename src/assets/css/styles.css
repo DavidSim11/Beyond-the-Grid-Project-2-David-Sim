@@ -37,18 +37,26 @@ footer {
 
 .hero {
     text-align: center;
-    background: #a5a5a5;
-    min-height: 5em;
+    background-image: linear-gradient(rgba(8, 8, 8, 0.2), rgb(0, 0, 0)), url(../css/images/ps5vsxbox.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    min-height: 50vh;
     padding: 2em;
     margin: 1em 0;
     /* vertically align */
     display: flex;
     align-items: center;
     justify-content: center;
-
-
 }
-
+.hero h2 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
 
 
 main {
