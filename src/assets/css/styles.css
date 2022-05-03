@@ -1,6 +1,9 @@
 body {
     font-size: 16px;
-    background-color: #f4f4f4;
+    background-color: #f8f8f8;
+    background-position: center;
+    background-size: cover;
+    position: relative;
     font-family: sans-serif;
 }
 
@@ -28,16 +31,34 @@ p {
     width: 90%;
     margin: 0 auto;
 }
+.inner-wrapper h2 {
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    color: #ffffff;
+}
 
-header,
+header {
+    background-image: linear-gradient(rgba(8, 8, 8, 0.2), rgb(0, 0, 0)), url(../css/images/banner.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    padding: 4em 0;
+}
 footer {
-    background-color: #777999;
+    background-color: #000000;
     padding: 2em 0;
 }
 
+.socials li {
+    text-align: center;
+    padding: 3px;
+    font-size: medium;
+    color: #ffffff;
+}
 .hero {
     text-align: center;
-    background-image: linear-gradient(rgba(8, 8, 8, 0.2), rgb(0, 0, 0)), url(../css/images/ps5vsxbox.png);
+    background-image: linear-gradient(rgba(8, 8, 8, 0.2), rgb(0, 0, 0)), url(../css/images/heroimg.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -49,15 +70,6 @@ footer {
     align-items: center;
     justify-content: center;
 }
-.hero h2 {
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-}
-
 
 main {
     margin-bottom: 2em;
