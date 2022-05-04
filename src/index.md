@@ -19,7 +19,7 @@ aboutme: Oksanen Media is a Automotive-based photographer that brings a unique f
 aboutmesection: Jake Oksanen is an experianced and innovative photographer based in Canberra, Australia. Jake is able to bring forth a true passion for capturing the exhilarating moments of motorsport through a lens. Jake uses his platform to showcase a variety of automobiles most noteably at the NSW Motor Race Championships and Revolution Expression Session. Using his superior photography skills, his knowledge of various photographic styles and editing expertise, jake is able to  deliver high quality photographs to all his car enthusiast. 
 
 # Section 3 
-videotext: One of only a few Legnum's on the roads in Australia, this gem has been maintained with it's original Galant Alloy wheels and Transverse mounted V6 Twin Turbo as it came from the factory in Japan.
+videotext: One of only a few Mitsubishi Legnum VR-4 on the roads in Australia, this gem has been maintained with it's original Galant Alloy wheels and Transverse mounted V6 Twin Turbo as it came from the factory in Japan.
 
 # Section 4
 
