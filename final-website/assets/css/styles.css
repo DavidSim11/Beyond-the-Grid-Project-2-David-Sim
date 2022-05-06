@@ -97,13 +97,13 @@ main {
 .column-aboutpic img {
     width: 500px;
     height: 350px;
-    border: 0px;
 }
 
 .text-image-row {
     margin-top: 5%;
     display: flex;
     justify-content: center;
+    border: solid #000000;
 }
 
 .artworkpicsrow {
@@ -124,7 +124,7 @@ main {
     width: 100%;
 }
 .column-legnum img {
-    width: 500px;
+    width: 100%;
     height: 350px;
     border: 0px;
 }
@@ -179,6 +179,7 @@ main {
     display: flex;
     justify-content: center;
     width: 50%, 50%;
+    border: solid #000000;
 }
 .column5 h3 {
     text-align: center;
@@ -206,8 +207,13 @@ main {
     color: white;
 }
 .column5 img {
-    width: 100%;
-    height: 75%; 
+    width: 50%;
+    height: 50%; 
+    padding: 10px 24px; 
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .column5 p {
     text-align: center;

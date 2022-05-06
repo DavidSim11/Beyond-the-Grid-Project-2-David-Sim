@@ -23,8 +23,8 @@ youtubeclip: MITSUBISHI LEGNUM VR4 Video Production
 videotext: One of only a few Mitsubishi Legnum VR-4 on the roads in Australia, this gem has been maintained with it's original Galant Alloy wheels and Transverse mounted V6 Twin Turbo as it came from the factory in Japan. Mitsubishi Legnum Wagon 4WD (JDM) submodel, manufactured or offered in the years 1996-2002 with station wagon body type, equipped with engines of 1834 - 2498 cc (111.9 - 152.5 cui) displacement, delivering 103 - 206 kW (140 - 280 PS, 138 - 276 hp) of horsepower.
 
 # Section 4
-motorrace: NSW Motor Race Championships 
-motorraceabout: MAY 22, 2021 - MAY 23, 2021 
+motorrace: NSW Motor Race  
+motorraceabout: Established as a chaptionships for multiple different classes of racecars.  Wafefield Park hosts a number of popular club-level events including car club sprints, historic meetings and motorcycle ride days. 
 # Section 5
 sessionsinfo: Revolution Expression
 sessionsinfodate: Established in 2012, Revolution Motorsports hosts unique track events throughout the Sydney and Goulburn region.
