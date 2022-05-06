@@ -34,7 +34,7 @@ contact: For inquiries about all automobile photoshoots please use below contact
 phone: (02) 6259 3858 
 email: jakebyphotography@gmail.com
 linktree: LinkTree
-shop: Stickers now for sale - More appeal coming soon....
+shop: Stickers now for sale - More apparel coming soon....
 shopitems: Shop Now
 sticker: Sticker $2.99
 
