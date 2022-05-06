@@ -1,21 +1,12 @@
 
 body {
     font-size: 16px;
-    background-color: #f8f8f8;
+    background-image: url(../images/background2.jpg);
     background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
     position: relative;
     font-family: sans-serif;
-}
-
-h1 {
-    font-size: 2em;
-    /* shorthand for TOP RIGHT BOTTOM LEFT */
-    /* margin: 1em 0 1.5em 0; */
-}
-
-h2 {
-    font-size: 1.6em;
 }
 
 h3 {
@@ -93,17 +84,19 @@ main {
     height: 350px;
     border: 0px;
     padding-right: 1rem;
+    border-radius: 0.9rem;
 }
 .column-aboutpic img {
     width: 500px;
     height: 350px;
+    border-radius: 0.9rem;
+    margin-right: 1rem;
 }
 
 .text-image-row {
     margin-top: 5%;
     display: flex;
     justify-content: center;
-    border: solid #000000;
 }
 
 .artworkpicsrow {
@@ -122,11 +115,13 @@ main {
 
 .column img {
     width: 100%;
+    border-radius: 0.9rem;
 }
 .column-legnum img {
     width: 100%;
     height: 350px;
     border: 0px;
+    border-radius: 0.9rem;
 }
 
 .column p{
@@ -148,6 +143,7 @@ main {
 .column2 img {
     width: 100%;
     height: 80%;
+    border-radius: 0.9rem;
 }
 
 .expressionsession h2 {
@@ -167,6 +163,7 @@ main {
 .column3 img {
     width: 100%;
     height: 80%;
+    border-radius: 0.9rem;
 }
 .legnum-text h2 {
     color: #000000;
@@ -179,7 +176,6 @@ main {
     display: flex;
     justify-content: center;
     width: 50%, 50%;
-    border: solid #000000;
 }
 .column5 h3 {
     text-align: center;
@@ -214,10 +210,19 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 0.9rem;
 }
 .column5 p {
     text-align: center;
     text-decoration: underline;
+    padding: auto;
+    margin: 3rem;
+}
+.borderbox {
+    border: solid #000000;
+    border-radius: 0.9rem;
+    background-color: #b4abab;
+    margin-top: 15px;
 }
 /*-------Media responsive-------*/
 @media(max-width: 768px) {
